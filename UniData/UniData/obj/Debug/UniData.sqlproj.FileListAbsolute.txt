@@ -1,0 +1,9 @@
+E:\GitHub\DB1stMVC\UniData\UniData\bin\Debug\UniData.dacpac
+E:\GitHub\DB1stMVC\UniData\UniData\bin\Debug\UniData.dll
+E:\GitHub\DB1stMVC\UniData\UniData\bin\Debug\UniData.pdb
+E:\GitHub\DB1stMVC\UniData\UniData\obj\Debug\UniData.dll
+E:\GitHub\DB1stMVC\UniData\UniData\obj\Debug\UniData.pdb
+E:\GitHub\DB1stMVC\UniData\UniData\obj\Debug\Model.xml
+E:\GitHub\DB1stMVC\UniData\UniData\obj\Debug\refactor.xml
+E:\GitHub\DB1stMVC\UniData\UniData\obj\Debug\postdeploy.sql
+E:\GitHub\DB1stMVC\UniData\UniData\obj\Debug\predeploy.sql
